@@ -2,7 +2,7 @@
 
     Copyright (C) 2017
 
-    Alberto Ortega Llamas
+    Ashkan Secure
     ashkan.webg[at]gmail[dot]com
 
     This file is part of honeypot
