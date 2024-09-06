@@ -1,6 +1,9 @@
 =begin
 
-    Copyright (C) 2017
+    Copyright (C) 2024
+	NEW Update
+	JOINED OPENSOURCE AND NOT NEED LICENSE
+	Fixed Buged {NEW OPTIONS, CHECK CVE=#}
 
     Ashkan Secure
     ashkan.webg[at]gmail[dot]com
